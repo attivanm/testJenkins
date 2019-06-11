@@ -19,3 +19,13 @@ C:\JenkinsBuildExecutors\BuildExecutor01\workspace\MsBuild_Test\Framework\obj\De
 C:\JenkinsBuildExecutors\BuildExecutor01\workspace\MsBuild_Test\Framework\obj\Debug\Framework.csproj.CopyComplete
 C:\JenkinsBuildExecutors\BuildExecutor01\workspace\MsBuild_Test\Framework\obj\Debug\Framework.exe
 C:\JenkinsBuildExecutors\BuildExecutor01\workspace\MsBuild_Test\Framework\obj\Debug\Framework.pdb
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\bin\Debug\Framework.dll
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\bin\Debug\Framework.pdb
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\bin\Debug\WebDriver.dll
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\bin\Debug\WebDriver.xml
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\obj\Debug\Framework.dll
+C:\Users\ivan.morales\Downloads\FrameworkJenkinsTest\testJenkins\Framework\obj\Debug\Framework.pdb

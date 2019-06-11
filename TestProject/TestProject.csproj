@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Components\Hook.cs" />
+    <Compile Include="Tests\SecondDemoTest.cs" />
     <Compile Include="Pages\AutomationPractice\ContactUsPage.cs" />
     <Compile Include="Pages\AutomationPractice\HomePage.cs" />
     <Compile Include="Pages\AutomationPractice\Menu\MainMenuPage.cs" />
